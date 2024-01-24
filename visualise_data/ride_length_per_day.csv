@@ -1,0 +1,15 @@
+day_of_week,member_casual,avg_ride_duration
+MON,member,12.21988887
+THURS,casual,21.47156115
+FRI,casual,22.55351919
+SUN,casual,27.46248294
+THURS,member,12.23688139
+SAT,casual,26.90025356
+MON,casual,24.82011041
+WED,member,12.02373786
+TUES,casual,21.74590899
+WED,casual,20.83717956
+SAT,member,14.28400050
+FRI,member,12.43507711
+TUES,member,11.99194717
+SUN,member,14.12193379
