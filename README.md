@@ -1,5 +1,6 @@
 # Google Data Analytics Capstone Project: Cyclistic Case Study
 Course: [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone)
+
 Case Study 1 - [How Does a Bike-Share Navigate Speedy Success?](https://github.com/DoDucNhan/Data-Analytics-Capstone-Project/blob/main/case_study_1.pdf)
 
 ## Introduction
